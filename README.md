@@ -1,5 +1,5 @@
 # Simple CRUD API
-    Github Activity: GitHub Setup,Push, Pull and Clone
+    Github Activity: GitHub Setup, Push, Pull and Clone
 
 
 ## API Description
