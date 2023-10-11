@@ -113,7 +113,7 @@ Below are examples of cURL commands for each endpoint:
 
 ## Contributors
     GENE LARENZ V. GARCIA (sutorejii123789@gmail.com)
-    ARON JAY C. TADINA (aronjay.tadina@student.dmmmsu.edu.ph
+    ARON JAY C. TADINA (aronjay.tadina@student.dmmmsu.edu.ph)
 
 ## Contact Information
     Mobile number: +63 915 422 8794 
